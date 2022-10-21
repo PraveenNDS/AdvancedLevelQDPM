@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo Web App test sutite" duration-ms="54109" started-at="2022-10-21T11:08:14 IST" finished-at="2022-10-21T11:09:08 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54109" started-at="2022-10-21T11:08:14 IST" finished-at="2022-10-21T11:09:08 IST">
+      <class name="tests.TestCase">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:tests.TestCase@553a3d88]" name="launchApplication" is-config="true" duration-ms="21447" started-at="2022-10-21T11:08:14 IST" finished-at="2022-10-21T11:08:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:tests.TestCase@553a3d88]" name="testCase2" duration-ms="32135" started-at="2022-10-21T11:08:36 IST" finished-at="2022-10-21T11:09:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="tearDowm()[pri:0, instance:tests.TestCase@553a3d88]" name="tearDowm" is-config="true" duration-ms="128" started-at="2022-10-21T11:09:08 IST" finished-at="2022-10-21T11:09:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowm -->
+      </class> <!-- tests.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Demo Web App test sutite -->
+</testng-results>
